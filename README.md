@@ -4,7 +4,7 @@ Recent Computer Science graduate passionate about building scalable and efficien
 
 🚀 Tech Stack: Java, Python, SQL, JavaScript, Spring Boot, React <br>
 📂 Projects: RESTful APIs, database-driven applications, and web development <br>
-💡 Interests: Full-stack engineering, nature, and modifying my motorcycle 😎 <br>
+💡 Interests: Engineering, nature, and modifying my motorcycle 😎 <br>
 
 Let's connect! 🚀 [LinkedIn](www.linkedin.com/in/michael-roy-715005208) | [Website](https://michaelroycodes.dev/) 
 
