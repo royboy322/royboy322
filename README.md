@@ -1,4 +1,4 @@
-👨‍💻 Michael Roy | Software Developer 
+👨‍💻 Michael Roy | Software Developer and IT Professional 
 
 Computer Science graduate passionate about building scalable and efficient applications, with hands-on experience in healthcare end-user IT support. Proficient in Java, Python, SQL, Spring Boot, and React, with hands-on full-stack development experience from Revature's intensive training program. I enjoy solving complex problems, writing clean code, and contributing to impactful projects. Always learning, always building.
 
