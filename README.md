@@ -1,6 +1,6 @@
 👨‍💻 Michael Roy | Software Developer 
 
-Recent Computer Science graduate passionate about building scalable and efficient applications. Proficient in Java, Python, SQL, Spring Boot, and React, with hands-on full-stack development experience from Revature's intensive training program. I enjoy solving complex problems, writing clean code, and contributing to impactful projects. Always learning, always building.
+Computer Science graduate passionate about building scalable and efficient applications. Proficient in Java, Python, SQL, Spring Boot, and React, with hands-on full-stack development experience from Revature's intensive training program. I enjoy solving complex problems, writing clean code, and contributing to impactful projects. Always learning, always building.
 
 🚀 Tech Stack: Java, Python, SQL, JavaScript, Spring Boot, React <br>
 📂 Projects: RESTful APIs, database-driven applications, and web development <br>
